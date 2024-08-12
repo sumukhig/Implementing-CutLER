@@ -1,5 +1,3 @@
-# Implementing-CutLER
-
 # Implementing CutLER for Unsupervised Object Detection and Instance Segmentation
 
 This repository contains the implementation of the CutLER approach for unsupervised object detection and instance segmentation. The project focuses on reproducing and adapting the methodology described in the 2023 Meta AI paper "Cut and Learn for Unsupervised Object Detection and Instance Segmentation," with specific application to the KITTI dataset.
